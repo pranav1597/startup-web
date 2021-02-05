@@ -1,0 +1,39 @@
+*{
+	text-align: right;
+}
+
+body{
+	background-image: url(glatt.jpg);
+	background-size: cover;
+}
+
+
+h2{
+	color : red;
+	text-align: center;
+	border: 2px solid rgb(120, 40, 107);
+	background-color: rgba(186, 149, 181, 0.5);
+}
+
+img{
+	float: left;
+}
+
+footer{
+	clear: both;
+	text-align: center;
+}
+p{
+	color: black;
+	font-style: italic;
+	font-weight: bold;
+	line-height: 20px;
+	font-family: 'Architects Daughter', cursive;
+	/*font-size: 10px;*/
+
+}
+
+li{
+	list-style: none;
+	display: inline-block;
+}
